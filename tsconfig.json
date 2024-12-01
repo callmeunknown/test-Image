@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "target": "es2021",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "strict": true,
+        "types": ["node", "@playwright/test", "ws"]
+    }
+} 
